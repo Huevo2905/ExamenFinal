@@ -1,4 +1,6 @@
 david quiroz
 206737220
 edad: 22
+estatura: 1.65
+peso: 80kg
 
